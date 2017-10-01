@@ -1,7 +1,3 @@
-# distance-matrix-pooling
-
-#experiment with pooling to reduce the amount of time it takes to make api requests
-
 #!/usr/bin/env python
 from multiprocessing.pool import ThreadPool
 from time import time as timer
